@@ -1,0 +1,9 @@
+node_modules
+src
+test
+*.log
+*.md
+*.env
+tsconfig.json
+.prettierrc
+.eslintrc.js
